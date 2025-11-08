@@ -1,0 +1,10 @@
+C++ Primer,Stanley B. Lippman,5
+Effective Modern C++,Scott Meyers,3
+Python Crash Course,Eric Matthes,4
+Clean Code,Robert C. Martin,2
+Data Structures and Algorithms in C++,Adam Drozdek,6
+The Pragmatic Programmer,Andrew Hunt,3
+Introduction to Algorithms,Thomas H. Cormen,2
+Design Patterns,Erich Gamma,4
+Java: The Complete Reference,Herbert Schildt,5
+Artificial Intelligence: A Modern Approach,Stuart Russell,2
